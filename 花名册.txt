@@ -342,4 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
-Edward     学习，爱好，打酱油！努力！
+Edward          学习，爱好，打酱油！努力！
